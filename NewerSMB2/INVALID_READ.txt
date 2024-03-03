@@ -1,0 +1,29 @@
+IMPORTANT: If you're refering to this hack to make your own,
+this is the best file to refer to about common found errors
+called "INVALID READ".Here're some of them ranged below:
+
+-------INVALID READ from...-------
+Error value:			Its meaning:			Where it appears?
+0x00000010			Invalid warp edges property	Any horizontal level using "Wrap edges" property
+0x00000002			Non-properly ActorSpawner	Usually in any level (Not crashing)
+				Properties (Unprecisable)
+0x0000044a			Invalid ActorSpawner's Hex	In any level where Sprite 191 and Sprite 88 are
+				Data, appearing with Sprite	simultaneously appearing
+				191
+0x032a0300			Unknown (Crashes and turns	At the beginning of a level
+				game off)
+0x00000040			Unstable Custom Map 		After selecting a player, on the map
+				Background
+0x00000056			Missing Tileset			At the beginning of a level
+0x000046f8			Invalid Snake Block Settings	Instantly to its load in a level
+0x00000000			Wrong Tileset Slot		At the beginning of a level
+0x74202564			Missing Font Image		Before pointing Mario at a level whose its display
+								name is incorrect
+0x83e9bce8			Unknown![***]			After losing a life
+0x0000000d			Missing Entrance		When Mario reaches the destination entrance
+0x00000090			Missing Area			When Mario reaches the destination area
+0x00000024			Unstable Stuff			When Mario enters a zone with a corrupted tileset
+				[Tileset/Models]		or with a missing 3D model
+0x00000240			Unknown[*]			Random![*]
+0x00000014			Wrong 2D BG Texture		When Mario enters a zone which uses a
+				Properties (found in 8-7)	corrupted background

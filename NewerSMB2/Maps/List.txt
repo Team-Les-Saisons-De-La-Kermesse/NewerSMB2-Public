@@ -1,0 +1,14 @@
+/Maps/Yoshis_Island.kpbin
+/Maps/Kheopsland_Ruins.kpbin
+/Maps/Crystal_Caves.kpbin
+/Maps/Goldleaves_Forest.kpbin
+/Maps/Glacial_Paradise.kpbin
+/Maps/Glacial_Volcano.kpbin
+/Maps/Boos_Cemeteries.kpbin
+/Maps/Sakura_Village.kpbin
+/Maps/Cirrus_Heavens.kpbin
+/Maps/Moonview_Heaven.kpbin
+/Maps/Koopa's_Volcanos.kpbin
+/Maps/Koopa_Core.kpbin
+/Maps/Lunar_Sattelit.kpbin
+/Maps/WSEL.kpbin
